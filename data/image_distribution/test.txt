@@ -1,0 +1,6 @@
+Sentinel-2_L1C_from_2018-08-23_Mendocino_13
+Sentinel-2_L1C_from_2018-08-23_Mendocino_27
+Sentinel-2_L1C_from_2018-11-16_Chico_5
+Sentinel-2_L1C_from_2019-03-04_Traralgon_22
+Sentinel-2_L1C_from_2019-03-04_Traralgon_71
+Sentinel-2_L1C_from_2019-03-04_Traralgon_76
