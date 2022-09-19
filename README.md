@@ -6,7 +6,7 @@
 
 ## Demo using a deep learning model to detect forest fires using sentinel-2 multi-spectral satellite imagery
 
-<div id="top"></div>
+
 
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 
-
+<div id="top"></div>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@
     <li>
         <a href="#usage-">Usage</a>
         <ul>
-            <li><a href="#demo-running">Demo running</a></li>
+            <li><a href="#demo_running">Demo running</a></li>
             <li><a href="#data_structure">Data structure</a></li>
         </ul>
     </li>
@@ -46,7 +46,7 @@ This git repository contains a demonstration of active forest fire detection wit
 consists of showing how to load the model and make the inference on some sample images.
 
 
-### This demo is built with :
+### <div id="packages"> This demo is built with </div>
 
 * [Anaconda](https://www.anaconda.com/products/distribution)
 * [Python](https://www.python.org/)
@@ -81,7 +81,7 @@ Follow these instructions to locally setup up your project.
    conda env create -f S2WDSV2_env.yml
    ```
 🚨 If you have problems while installing the environment, please create it manually, 
-then you can manually install the packages mentioned <a href="#This-demo-is-built-with">here</a>.  
+then you can manually install the packages mentioned <a href="#packages">here</a>.
 
 - Activate it:
   ```sh
@@ -98,9 +98,9 @@ then you can manually install the packages mentioned <a href="#This-demo-is-buil
 
 ## Usage 📒
 
-### 1. Demo running
+### <div id="demo_running"> 1. Demo running</div>
 
-The jupyter nootebook is not installed in the S2WDS env created by <a href="#prerequisites">S2WDS_env.yml </a> file.
+The jupyter nootebook is not installed in the S2WDS env created by <a href="https://github.com/hxfdanger/S2WDSV2/blob/main/S2WDSV2_env.yml">S2WDS_env.yml </a> file.
 
 🚨 To run the notebook **demo.ipynb** you have to install **jupyter** package in your active (S2WDS) environment
 ```conda install -c anaconda jupyter```
