@@ -42,7 +42,7 @@
 
 ## About This repository 💼
 
-This git repository contains a demonstration of active forest fire detection with a deep learning models. The demo
+This git repository contains a demonstration of active forest fire detection using deep learning. The demo
 consists of showing how to load the model and make the inference on some sample images.
 
 
