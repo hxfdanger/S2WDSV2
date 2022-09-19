@@ -200,12 +200,5 @@ Project Link: [https://github.com/hxfdanger/S2WDSV2](https://github.com/hxfdange
 
 ## References 🔗 
 
-<ol>
-<li>
-</li>
-<li>
-</li>
-</ol>
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
