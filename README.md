@@ -19,20 +19,20 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-this-repository-">About This Repository</a></li>
+    <li><a href="#about-this-repository">About This Repository</a></li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-Started">Getting Started</a>
     </li>
     <li>
-        <a href="#usage-">Usage</a>
+        <a href="#usage">Usage</a>
         <ul>
             <li><a href="#demo_running">Demo running</a></li>
             <li><a href="#data_structure">Data structure</a></li>
         </ul>
     </li>
-    <li><a href="#license-">License</a></li>
-    <li><a href="#contact-">Contact</a></li>
-    <li><a href="#references-">References</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <!-- <li><a href="#references">References</a></li> -->
   </ol>
 </details>
 
@@ -40,7 +40,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About This repository 💼
+## <div id="about-this-repository">1. About This repository 💼 </div>
 
 This git repository contains a demonstration of active forest fire detection using deep learning. The demo
 consists of showing how to load the model and make the inference on some sample images.
@@ -61,7 +61,8 @@ consists of showing how to load the model and make the inference on some sample 
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+
+## <div id="getting-Started"> 2. Getting Started 📚  </div>
 
 Follow these instructions to locally setup up your project.
 
@@ -96,9 +97,9 @@ then you can manually install the packages mentioned <a href="#packages">here</a
 
 <!-- USAGE EXAMPLES -->
 
-## Usage 📒
+## <div id="usage">3. Usage 📒 </div>
 
-### <div id="demo_running"> 1. Demo running</div>
+### <div id="demo_running"> Demo running</div>
 
 The jupyter nootebook is not installed in the S2WDS env created by <a href="https://github.com/hxfdanger/S2WDSV2/blob/main/S2WDSV2_env.yml">S2WDS_env.yml </a> file.
 
@@ -117,11 +118,12 @@ jupyter notebook demo.ipynb
   utils.py
 - All images used for the demo are located in data folder. The structure of the data described
   (<a href="#data_structure">bellow</a>).
-- The model used in the demo does not exist in this repository. you can download all models from [__link__](https://). 
+- The model used in the demo does not exist in this repository. 
+you can download all models from [__link__](https://ciar.irt-saintexupery.com/index.php/s/3RLvFSak6Qt7NnB/download?path=%2Fwildifre_data_20m&files=models_20m.zip). 
 Do not forget to put it in a folder called models.
 
 
-### <div id="data_structure"> 2. Data structure</div>
+### <div id="data_structure">Data structure</div>
 
 ```
 data/
@@ -159,9 +161,9 @@ data/
 - Image_distribution folder contains 1 files :
   - test.txt : contains the name of 6 images corrsponding to (false_color, RGB and masks) used for the inference
 
-🚨 To download all the data ([__link__](https://ciar.irt-saintexupery.com/index.php/s/NDXrX4eRKzkIPWD))
+🚨 To download all the data ([__link__](https://ciar.irt-saintexupery.com/index.php/s/3RLvFSak6Qt7NnB?path=%2Fwildifre_data_20m))
 
-👉 For more information about the data please read this ([__Readme__]())
+👉 For more information about the data please read this ([__Readme__](https://ciar.irt-saintexupery.com/index.php/s/3RLvFSak6Qt7NnB/download?path=%2Fwildifre_data_20m&files=ReadMe_20m.md))
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -169,7 +171,8 @@ data/
 
 <!-- LICENSE -->
 
-## License 📑
+
+## <div id="license">4. License 📑</div>
 
 
 Distributed under the Attribution 4.0 International (CC BY 4.0) License. 
@@ -182,9 +185,11 @@ Contains modified Copernicus Sentinel data [2016-2020] for Sentinel data
 
 <!-- CONTACT -->
 
-## Contact 📭
+
+## <div id="contact">5. Contact 📭</div>
 
 * [Houssem FARHAT 📧](mailto:houssem.farhat@irt-saintexupery.com)
+* [ Benjamin FRANCESCONI 📧](mailto:benjamin.francesconi@irt-saintexupery.com) 
 * [Lionel DANIEL 📧](mailto:lionel.daniel@irt-saintexupery.com)
 * [Michael BENGUIGUI 📧](mailto:michael.benguigui@irt-saintexupery.com)
 * [Adrien GIRARD 📧](mailto:adrien.girard@irt-saintexupery.com)
@@ -198,7 +203,8 @@ Project Link: [https://github.com/hxfdanger/S2WDSV2](https://github.com/hxfdange
 
 <!-- REFERENCES -->
 
-## References 🔗 
+<!-- ## <div id="references">5. References 📭 </div>
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
+
