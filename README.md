@@ -19,9 +19,9 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-this-repository">About This Repository</a></li>
+    <li><a href="#about-this-repository">About this repository</a></li>
     <li>
-      <a href="#getting-Started">Getting Started</a>
+      <a href="#getting-Started">Getting started</a>
     </li>
     <li>
         <a href="#usage">Usage</a>
@@ -40,7 +40,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## <div id="about-this-repository">1. About This repository 💼 </div>
+## <div id="about-this-repository">1. About this repository 💼 </div>
 
 This git repository contains a demonstration of active forest fire detection using deep learning. The demo
 consists of showing how to load the model and make the inference on some sample images.
@@ -86,10 +86,10 @@ then you can manually install the packages mentioned <a href="#packages">here</a
 
 - Activate it:
   ```sh
-     conda conda activate S2WDSV2
+     conda activate S2WDSV2
   ```
 
-🚨 to run conda command you have to install [Anaconda distribution](https://www.anaconda.com/products/distribution)). 
+🚨 To run conda command you have to install [Anaconda distribution](https://www.anaconda.com/products/distribution)). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -115,7 +115,7 @@ jupyter notebook demo.ipynb
 **✍ NOTES:**
 
 - [**Demo.ipynb**](https://github.com/hxfdanger/S2WDS/blob/prepare_demo/demo.ipynb) will use some function declared in
-  utils.py
+  utils.py.
 - All images used for the demo are located in data folder. The structure of the data described
   (<a href="#data_structure">bellow</a>).
 - The model used in the demo does not exist in this repository. 
@@ -154,12 +154,12 @@ data/
 ```
 **✍ NOTES:**
 
-- The data folder only contains examples used to run the demo
+- The data folder only contains examples used to run the demo.
 - **false_color** folder contains 6 images composed by [B12,B11,B04] (sentinel2 bands) used as the input of the model for inference. 
 - **RGB** contains 3 images corrsponding to false_color images composed by [B04,B03,B02] (sentinel2 bands) used only for visualizing.
 - **masks** folder contains 6 binary masks (**value : 0=no-fire; value : 1=fire**) corresponding to the images in the false_color folder.
 - Image_distribution folder contains 1 files :
-  - test.txt : contains the name of 6 images corrsponding to (false_color, RGB and masks) used for the inference
+  - test.txt : contains the name of 6 images corrsponding to (false_color, RGB and masks) used for the inference.
 
 🚨 To download all the data ([__link__](https://ciar.irt-saintexupery.com/index.php/s/3RLvFSak6Qt7NnB?path=%2Fwildifre_data_20m))
 
