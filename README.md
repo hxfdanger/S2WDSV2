@@ -161,7 +161,7 @@ data/
 - Image_distribution folder contains 1 files :
   - test.txt : contains the name of 6 images corrsponding to (false_color, RGB and masks) used for the inference.
 
-🚨 To download all the data ([__link__](https://ciar.irt-saintexupery.com/index.php/s/3RLvFSak6Qt7NnB?path=%2Fwildifre_data_20m))
+🚨 To download the full data ([__link__](https://ciar.irt-saintexupery.com/index.php/s/3RLvFSak6Qt7NnB?path=%2Fwildifre_data_20m))
 
 👉 For more information about the data please read this ([__Readme__](https://ciar.irt-saintexupery.com/index.php/s/3RLvFSak6Qt7NnB/download?path=%2Fwildifre_data_20m&files=ReadMe_20m.md))
 
