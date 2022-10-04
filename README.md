@@ -104,7 +104,9 @@ then you can manually install the packages mentioned <a href="#packages">here</a
 The jupyter nootebook is not installed in the S2WDS env created by <a href="https://github.com/hxfdanger/S2WDSV2/blob/main/S2WDSV2_env.yml">S2WDS_env.yml </a> file.
 
 🚨 To run the notebook **demo.ipynb** you have to install **jupyter** package in your active (S2WDS) environment
-```conda install -c anaconda jupyter```
+```bash
+conda install -c anaconda jupyter
+```
 
 🏁 Run the notebook [**demo.ipynb**](https://github.com/hxfdanger/S2WDS/blob/prepare_demo/demo.ipynb)
 
