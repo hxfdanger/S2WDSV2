@@ -191,10 +191,12 @@ Contains modified Copernicus Sentinel data [2016-2020] for Sentinel data
 ## <div id="contact">5. Contact 📭</div>
 
 * [Houssem FARHAT 📧](mailto:houssem.farhat@irt-saintexupery.com)
-* [ Benjamin FRANCESCONI 📧](mailto:benjamin.francesconi@irt-saintexupery.com) 
-* [Lionel DANIEL 📧](mailto:lionel.daniel@irt-saintexupery.com)
-* [Michael BENGUIGUI 📧](mailto:michael.benguigui@irt-saintexupery.com)
+* [Benjamin FRANCESCONI 📧](mailto:benjamin.francesconi@irt-saintexupery.com) 
 * [Adrien GIRARD 📧](mailto:adrien.girard@irt-saintexupery.com)
+* [Michael BENGUIGUI 📧](mailto:michael.benguigui@irt-saintexupery.com)
+* [Lionel DANIEL 📧](mailto:lionel.daniel@irt-saintexupery.com)
+
+
 
 
 Project Link: [https://github.com/hxfdanger/S2WDSV2](https://github.com/hxfdanger/S2WDSV2)
