@@ -192,8 +192,8 @@ Contains modified Copernicus Sentinel data [2016-2020] for Sentinel data
 
 * [Houssem FARHAT 📧](mailto:houssem.farhat@irt-saintexupery.com)
 * [Benjamin FRANCESCONI 📧](mailto:benjamin.francesconi@irt-saintexupery.com) 
-* [Adrien GIRARD 📧](mailto:adrien.girard@irt-saintexupery.com)
 * [Michael BENGUIGUI 📧](mailto:michael.benguigui@irt-saintexupery.com)
+* [Adrien GIRARD 📧](mailto:adrien.girard@irt-saintexupery.com)
 * [Lionel DANIEL 📧](mailto:lionel.daniel@irt-saintexupery.com)
 
 
