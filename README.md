@@ -50,9 +50,9 @@ consists of showing how to load the model and make the inference on some sample 
 
 * [Anaconda](https://www.anaconda.com/products/distribution)
 * [Python](https://www.python.org/)
-* [tensorflow](https://www.tensorflow.org/)
-* [skimage](https://scikit-image.org/)
-* [matplotlib](https://matplotlib.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Skimage](https://scikit-image.org/)
+* [Matplotlib](https://matplotlib.org/)
 * [NumPy](https://numpy.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
